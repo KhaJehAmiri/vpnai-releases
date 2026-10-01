@@ -1,12 +1,12 @@
 {
   "windows": {
-    "version": "0.1.7",
-    "url": "https://github.com/KhaJehAmiri/vpnai-releases/releases/download/v0.1.7/VPNAI-Setup-0.1.7.exe",
-    "sha256": "f4b096c05dc56ed282d38822b6e53a5cb2e5f227ddc67d4889674ed1a51de5c7"
+    "version": "0.1.8",
+    "url": "https://github.com/KhaJehAmiri/vpnai-releases/releases/download/v0.1.8/VPNAI-Setup-0.1.8.exe",
+    "sha256": "73a273522b3d6171e1422fbebbd2774cf5e87112f5a1b148f55acd1000eebd98"
   },
   "android": {
-    "version": "0.1.7",
-    "url": "https://github.com/KhaJehAmiri/vpnai-releases/releases/download/v0.1.7/VPNAI-0.1.7-arm64.apk",
-    "sha256": "ca70098cff26f54507d90bdc5ff5f22eeee06924bef98096276f30c5f7b2fe1a"
+    "version": "0.1.8",
+    "url": "https://github.com/KhaJehAmiri/vpnai-releases/releases/download/v0.1.8/VPNAI-0.1.8-arm64.apk",
+    "sha256": "c1fff7567c4293847ce14a9572153785ef258030549a7e6979a247cd554677c9"
   }
 }
