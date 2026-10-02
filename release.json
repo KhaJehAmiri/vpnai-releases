@@ -1,12 +1,17 @@
 {
   "windows": {
-    "version": "0.1.14",
-    "url": "https://github.com/KhaJehAmiri/vpnai-releases/releases/download/v0.1.14/VPNAI-Setup-0.1.14.exe",
-    "sha256": "1c7c0c40f687de27bd0e1382294f1a7de88466c1e4115e4d4cb0d8bae12e7662"
+    "version": "0.1.16",
+    "url": "https://github.com/KhaJehAmiri/vpnai-releases/releases/download/v0.1.16/VPNAI-Setup-0.1.16.exe",
+    "sha256": "b413286303dd92bb816aa6b175017cb94ee0f0cc8bd4649d3c47dec8d18ab3bb"
   },
   "android": {
-    "version": "0.1.14",
-    "url": "https://github.com/KhaJehAmiri/vpnai-releases/releases/download/v0.1.14/VPNAI-0.1.14-arm64.apk",
-    "sha256": "1fa3ec567d65e3feeb4d95ea4058063a06982d5af2da1bb32d5ff03cedfa3fd1"
+    "version": "0.1.16",
+    "url": "https://github.com/KhaJehAmiri/vpnai-releases/releases/download/v0.1.16/VPNAI-0.1.16-arm64.apk",
+    "sha256": "5cf5f01e56ce412dafeb9ef6506bdb2beb72948285dd11104551db604a06227d"
+  },
+  "android-x64": {
+    "version": "0.1.16",
+    "url": "https://github.com/KhaJehAmiri/vpnai-releases/releases/download/v0.1.16/VPNAI-0.1.16-x64.apk",
+    "sha256": "a2cafc5e74925dd016160e96c2c42531a67858b29866cb3ab4faa828567f8e74"
   }
 }
